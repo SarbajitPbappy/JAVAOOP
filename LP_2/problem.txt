@@ -1,0 +1,15 @@
+Problem Statement:
+
+You are building a music playlist application. Each playlist can contain multiple songs, and
+each song can belong to multiple playlists. Implement this system using aggregation.
+
+Tasks:
+
+Create the Song class with attributes like title, artist, and duration.
+
+Create the Playlist class with a name and a list of songs.
+
+Implement methods to add songs to a playlist and display the playlist's content.
+
+Create instances of the classes and demonstrate the system by adding songs to a
+playlist and displaying its content.
